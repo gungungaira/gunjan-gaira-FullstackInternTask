@@ -1,0 +1,20 @@
+.image{
+    width: 700px;
+    height: 400px;
+}
+.react-multi-carousel-track {
+    margin-top: 5%;
+}
+
+@media screen and (max-width: 1124px ) {
+    image{
+    width: 300px;
+    height: 300px;
+    }
+}
+@media screen and (max-width: 764px ) {
+    image{
+    width: 200px;
+    height: 300px;
+    }
+}

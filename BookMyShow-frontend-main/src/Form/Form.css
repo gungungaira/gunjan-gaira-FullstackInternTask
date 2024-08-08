@@ -1,0 +1,17 @@
+.form-outline {
+    margin-top: 10%;
+}
+/* .text_center_text-lg-start{
+
+} */
+.cascadingRight {
+    margin-right: -50px;
+  }
+  .card-cascading-right-bg-body-tertiary{
+    backdrop-filter: blur(30px);
+  }
+  @media (max-width: 991.98px) {
+    .cascading-right {
+      margin-right: 0;
+    }
+}

@@ -1,0 +1,24 @@
+.img_div{
+    display: flex;
+    justify-content: space-around;
+}
+.img-fix{
+    width: 20%;
+    height: 14%;
+}
+.img_div{
+    background-image: inn7;
+    
+}
+.header{
+    font-size:25px ;
+    color: khaki;
+    margin-left: 20%;
+    font-weight: 600;
+}
+.pera_img_text{
+    font-size: 20px;
+    color:burlywood;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}

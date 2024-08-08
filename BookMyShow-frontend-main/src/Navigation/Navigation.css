@@ -1,0 +1,13 @@
+.bg-body-tertiary{
+    
+background-color: aquamarine !important;		
+color:rgb(red, rgb(129, 185, 129), rgb(182, 182, 221))		
+}
+#navbarScroll{
+    margin-left: 30%;
+}
+.imt-text{
+    font-size: 30px;
+    color: grey;
+    font-style: italic;
+}
